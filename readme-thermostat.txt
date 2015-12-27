@@ -105,7 +105,7 @@ Photo's can be found in map Thermostat-pictures.
 04 = housing final
 
 Costs:
-Total cost of the project ca. 20,45 eur/$. For details see file WC timer-bom2.pdf and .html
+Total cost of the project ca. 16.06 eur/$. For details see file Bom Simple Thermostat.htm
 
 Have fun.
 HEINOHEIN
